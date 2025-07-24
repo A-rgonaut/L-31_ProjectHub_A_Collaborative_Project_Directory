@@ -9,7 +9,7 @@
 
 ## 📖 **Context**
 
-This project was developed for the **Reti di Calcolatori** examination of Prof. **Biagio Lenzitti**, during the **2023/2024** Academic Year at the **Università degli Studi di Palermo**, **Computer Science (L-31, 2086)** course.
+This project was developed for the **Reti di Calcolatori** examination of Prof. **Biagio Lenzitti**, during the **2022/2023** Academic Year at the **Università degli Studi di Palermo**, **Computer Science (L-31, 2086)** course.
 
 ## 👥 **Authors**
 _Andrea Spinelli - Marco Valenti - Raffaele Terracino_
